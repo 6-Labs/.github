@@ -11,7 +11,7 @@ We love the challenge of taking an idea and bringing it to life.
   
 - **Emmanuel Osei Boakye**  [GitHub](https://github.com/your-github) · [LinkedIn](https://linkedin.com/in/your-linkedin)
 
-- **Rexford Brefo**  [GitHub](https://github.com/your-github) · [LinkedIn](https://linkedin.com/in/your-linkedin)
+- **Rexford Brefo**  [GitHub](https://github.com/cool-rex) · [LinkedIn](https://linkedin.com/in/rexford-brefo)
   
 - **Vey**  [GitHub](https://github.com/your-github) · [LinkedIn](https://linkedin.com/in/your-linkedin)  
 
